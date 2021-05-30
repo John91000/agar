@@ -11,7 +11,7 @@
     "main": "server.js",
     "dependencies": {
         "murmurhash-js": "^1.0.0",
-        "ws": "^7.1.1",
+        "ws": "^7.4.6",
         "request": "^2.88.0",
         "request-promise": "^4.2.4",
         "colour": "^0.7.1"
